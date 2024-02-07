@@ -15,5 +15,6 @@ void conti :: get_name (std::string n){
 }
 
 std::string conti :: print_name(){
+    
     return name;
 }
